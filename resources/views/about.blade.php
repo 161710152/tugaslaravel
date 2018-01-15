@@ -6,7 +6,7 @@
 <head>
 	<title>tugas</title>
 </head>
-<body>
+<body background="s.jpg">
 <h1> <center>TERIMAKASIH</center> </h1>
 
 

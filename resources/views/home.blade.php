@@ -6,7 +6,7 @@
 <head>
 	<title>tugas</title>
 </head>
-<body>
+<body background="tes.jpg">
 <div class="jumbotron">
         <h1>assalamualaikum</h1>
         <p>saya lebih baik di benci orang lain sebagai diriku sebenarnya, ketimbang munafik untuk di sukai orang lain.</p>

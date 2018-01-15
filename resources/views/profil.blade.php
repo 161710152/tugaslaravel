@@ -6,7 +6,7 @@
 <head>
 	<title>tugas</title>
 </head>
-<body>
+<body background="t.jpg">
 <h1>Nama : sandika erlangga</h1>
 <h1>Umur : 16 tahun</h1>
 <h1>Kelas : XI Rpl 1</h1>
